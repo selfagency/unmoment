@@ -1,8 +1,10 @@
 {
-  "name": "Unmoment",
-  "version": "0.0.1",
+  "name": "Unmoment – Hide Twitter's Moments Tab",
+  "short_name": "Unmoment",
+  "version": "0.2",
   "manifest_version": 2,
   "description": "Remove the useless Moments tab from Twitter.com",
+  "author": "The Self Agency, LLC",
   "homepage_url": "https://self.agency",
   "icons": {
     "16": "icons/icon16.png",
